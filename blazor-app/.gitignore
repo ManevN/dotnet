@@ -1,0 +1,36 @@
+## Ignore build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## ASP.NET
+project.lock.json
+project.fragment.lock.json
+
+## Dotnet watch
+**/node_modules/
+**/bower_components/
+*.db
+
+## Logs
+*.log
+
+## Others
+.env
+*.sqlite
+*.pdb
+
+## WebAssembly
+wwwroot/dist/
+wwwroot/_framework/
+
+.vs/
